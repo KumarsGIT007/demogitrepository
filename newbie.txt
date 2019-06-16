@@ -1,1 +1,2 @@
 I am a newbie
+I am new entry in the Dev branch
